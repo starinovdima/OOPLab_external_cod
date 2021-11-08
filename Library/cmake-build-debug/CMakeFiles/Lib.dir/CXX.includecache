@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitry/CLionProjects/External_cod/Library/Poly.cpp
+Poly.hpp
+/home/dmitry/CLionProjects/External_cod/Library/Poly.hpp
+
+/home/dmitry/CLionProjects/External_cod/Library/Poly.hpp
+iostream
+-
+vector
+-
+optional
+-
+

@@ -1,0 +1,4 @@
+/home/dmitry/clion-2021.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/bin/c++ -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/dmitry/CLionProjects/External_cod
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dmitry/CLionProjects/External_cod/cmake-build-debug

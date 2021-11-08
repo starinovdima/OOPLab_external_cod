@@ -1,0 +1,1 @@
+/bin/c++ -fPIC -g -shared -Wl,-soname,libLib.so -o libLib.so CMakeFiles/Lib.dir/Poly.cpp.o 
