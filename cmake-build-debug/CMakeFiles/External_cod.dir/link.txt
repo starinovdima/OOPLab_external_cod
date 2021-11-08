@@ -1,1 +1,0 @@
-/bin/c++ -g CMakeFiles/External_cod.dir/Dialog/main.cpp.o -o External_cod 
